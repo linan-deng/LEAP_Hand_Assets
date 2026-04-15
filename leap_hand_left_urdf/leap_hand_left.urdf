@@ -1,4 +1,4 @@
-<robot name="onshape">
+<robot name="leap_hand_left">
   <link name="palm_lower_left">
     <visual>
       <origin xyz="-0.095574224938392599027 -0.11704001150113751972 0.02077960705260517571" rpy="1.57079632679489678 1.1239611599647231752e-28 3.1415926535897908956" />
