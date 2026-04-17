@@ -3,13 +3,26 @@ The LEAP Hand assets include **URDF and USD files** for both **the right and lef
 
 ## leap_hand_right
 
+URDF visualized in [https://viewer.robotsfan.com/](https://viewer.robotsfan.com/)
+
 ![leap_hand_left_urdf](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_urdf.png)
+
+USD visualized in Isaac Sim
+
 ![leap_hand_left_usd](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_usd.png)
+
+USD with cube visualized in Isaac Sim
+
 ![leap_hand_left_usd_cube](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_usd_cube.png)
 
 ## leap_hand_left
 
+URDF visualized in [https://viewer.robotsfan.com/](https://viewer.robotsfan.com/)
 ![leap_hand_right_urdf](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_right_urdf.png)
+
+USD visualized in Isaac Sim
 ![leap_hand_right_usd](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_right_usd.png)
+
+USD with cube visualized in Isaac Sim
 ![leap_hand_right_usd_cube](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_right_usd_cube.png)
 
