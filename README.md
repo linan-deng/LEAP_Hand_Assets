@@ -6,6 +6,9 @@ The LEAP Hand assets include **URDF and USD files** for both **the right and lef
 ![leap_hand_left_urdf](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_urdf.png)
 ![leap_hand_left_usd](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_usd.png)
 ![leap_hand_left_usd_cube](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_usd_cube.png)
+
+## leap_hand_left
+
 ![leap_hand_right_urdf](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_right_urdf.png)
 ![leap_hand_right_usd](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_right_usd.png)
 ![leap_hand_right_usd_cube](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_right_usd_cube.png)
