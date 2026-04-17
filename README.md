@@ -1,2 +1,2 @@
 # LEAP_Hand_Assets
-urdf and usd of LEAP Hand, includes left hand and right hand
+The LEAP Hand assets include URDF and USD files for both the right and left hands. Since an official USD file for the left hand is not available, we generated one by mirroring the right-hand model. There is a subtle difference between the mirrored model and the model generated from the left-hand URDF. Specifically, the shapes of the first joints on the index, middle, and ring fingers are not symmetrical. You can verify this by visualizing the mirrored USD file in Isaac Sim for comparison.
