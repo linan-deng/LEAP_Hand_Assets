@@ -21,11 +21,11 @@ leap_hand_left URDF visualized in [https://viewer.robotsfan.com/](https://viewer
 
 ![leap_hand_left_urdf](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_urdf.png)
 
-leap_hand_left USD visualized in Isaac Sim
+leap_hand_left (leap_hand_right_mirror) USD visualized in Isaac Sim
 
 ![leap_hand_left_usd](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_usd.png)
 
-leap_hand_left USD with cube visualized in Isaac Sim
+leap_hand_left (leap_hand_right_mirror) USD with cube visualized in Isaac Sim
 
 ![leap_hand_left_usd_cube](https://github.com/linan-deng/LEAP_Hand_Assets/blob/main/img/leap_hand_left_usd_cube.png)
 
